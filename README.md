@@ -12,3 +12,7 @@ For the keyboard: DAT is GPIO3, CLK is GPIO2. The keyboard must be connected thr
 After starting, you will be asked to select between the C64 or SX-64 ROM. The only significant difference between the two is the color theme of the BASIC editor.\
 Pressing _PgUp_ clears the BASIC editor screen.\
 Pressing _ESC_ while the emulator is running brings up a menu from where you can reset the emulated C64, load some demo programs or automagically type the color selection _POKE_ commands.
+## Pictures
+![20220304_182825](https://user-images.githubusercontent.com/60291077/156802646-90c2da56-226b-4580-93fe-46929bd6cd60.jpg)
+![20220304_183132](https://user-images.githubusercontent.com/60291077/156802772-0f546fe0-af5a-4b1c-a2e9-4ec6e63c9b6e.jpg)
+![20220304_182834](https://user-images.githubusercontent.com/60291077/156802802-95f41bcf-24cc-4ac3-b667-82982613ca89.jpg)
